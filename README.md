@@ -76,5 +76,9 @@ To test locally, follow the instructions below:
 3. Run `npm start`
 4. Go to [backend repository](https://github.com/mrwerner392/happy-hour-backend) to view backend installation
 
+## Demo
+
+Follow [this link](https://www.youtube.com/watch?v=wpUKh5bZr2U) for a video demonstration of the app.
+
 ## Authors
 [Kimberly Bone](https://github.com/kimberlybone) & [Matt Werner](https://github.com/mrwerner392)
