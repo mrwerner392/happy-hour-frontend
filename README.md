@@ -74,7 +74,7 @@ To test locally, follow the instructions below:
 1. Clone the **headless-horse-rider** branch of this repository to your local machine and navigate into the directory from your terminal
 2. Run `npm install`
 3. Run `npm start`
-  - Make sure this is running on port 3001 (should be by default)
+  - Make sure this is running on port 3001 (or any port besides 3000, but should be 3001 by default)
 4. Go to [backend repository](https://github.com/mrwerner392/happy-hour-backend) to view backend installation
 
 ## Demo
